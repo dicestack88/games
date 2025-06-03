@@ -7,7 +7,7 @@ fetch('data.json')
             const gameElement = document.createElement('div');
             gameElement.classList.add('game');
             gameElement.innerHTML = `
-                <img src="${game.image}" alt="${game.title}">
+                <a href="${game.link}"><img src="${game.image}" alt="${game.title}"></a>
                 <a href="${game.link}">${game.title}</a>
             `;
             gameContainer.appendChild(gameElement);
