@@ -244,6 +244,12 @@
             "title": "Moto Maniac 2",
             "image": "gamesimages/motomaniac.png",
             "link": "games/motomaniac2.html"
+        },
+
+        {
+            "title": "Soccer Random",
+            "image": "gamesimages/soccerrandom.png",
+            "link": "games/soccerrandom.html"
         }
     ]
 }
