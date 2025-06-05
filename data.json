@@ -232,6 +232,12 @@
             "title": "Stick Defenders",
             "image": "gamesimages/stickdefenders.png",
             "link": "games/stickdefenders.html"
+        },
+
+        {
+            "title": "Super Star Car",
+            "image": "gamesimages/superstarcar.png",
+            "link": "games/superstarcar.html"
         }
     ]
 }
