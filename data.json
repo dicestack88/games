@@ -250,6 +250,18 @@
             "title": "Soccer Random",
             "image": "gamesimages/soccerrandom.png",
             "link": "games/soccerrandom.html"
+        },
+
+        {
+            "title": "Stickman Hook",
+            "image": "gamesimages/stickmanhook.png",
+            "link": "games/stickmanhook.html"
+        },
+
+        {
+            "title": "Stick Merge",
+            "image": "gamesimages/stickmerge.png",
+            "link": "games/stickmerge.html"
         }
     ]
 }
