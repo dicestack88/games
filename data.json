@@ -294,6 +294,24 @@
             "title": "DVD Screensaver",
             "image": "gamesimages/dvdscreensaver.png",
             "link": "games/dvdscreensaver.html"
+        },
+
+        {
+            "title": "Block Blast",
+            "image": "gamesimages/blockblast.png",
+            "link": "games/blockblast.html"
+        },
+
+        {
+            "title": "Papa's Freezeria",
+            "image": "gamesimages/papasfreeezeria.png",
+            "link": "games/papasfreezeria.html"
+        },
+
+        {
+            "title": "Papa's Pizzeria",
+            "image": "gamesimages/papaspizzeria.png",
+            "link": "games/papaspizzeria.html   "
         }
     ]
 }
