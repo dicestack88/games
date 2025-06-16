@@ -288,6 +288,12 @@
             "title": "Survival Karts",
             "image": "gamesimages/survivalkarts.png",
             "link": "games/survivalkarts.html"
+        },
+
+        {
+            "title": "DVD Screensaver",
+            "image": "gamesimages/dvdscreensaver.png",
+            "link": "games/dvdscreensaver.html"
         }
     ]
 }
