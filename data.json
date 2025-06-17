@@ -318,6 +318,24 @@
             "title": "There is no Game",
             "image": "gamesimages/thereisnogame.png",
             "link": "games/thereisnogame.html"
+        },
+
+        {
+            "title": "Swingo",
+            "image": "gamesimages/swingo.png",
+            "link": "games/swingo.html"
+        },
+
+        {
+            "title": "Day Of Meat: Radiation",
+            "image": "gamesimages/dayofmeat.png",
+            "link": "games/dayofmeat.html"
+        },
+
+        {
+            "title": "Cats Love Cake 2",
+            "image": "gamesimages/catslovecake.png",
+            "link": "games/catslovecake.html"
         }
     ]
 }
