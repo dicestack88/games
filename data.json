@@ -336,6 +336,24 @@
             "title": "Cats Love Cake 2",
             "image": "gamesimages/catslovecake.png",
             "link": "games/catslovecake.html"
+        },
+
+        {
+            "title": "Monkey Mart",
+            "image": "gamesimages/monkeymart.png",
+            "link": "games/monkeymart.html"
+        },
+
+        {
+            "title": "Blumgi Slime",
+            "image": "gamesimages/blumgislime.png",
+            "link": "games/blumgislime.html"
+        },
+
+        {
+            "title": "Blumgi Rocket",
+            "image": "gamesimages/blumgirocket.png",
+            "link": "games/blumgirocket.html"
         }
     ]
 }
