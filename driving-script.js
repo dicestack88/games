@@ -14,4 +14,4 @@ fetch('data.json')
       gameContainer.appendChild(gameElement);
     });
   })
-  .catch(error => console.error('Error loading games:', error));
+  .catch(error => console.error('there was an error:', error));
