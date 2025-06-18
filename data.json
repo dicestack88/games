@@ -54,9 +54,15 @@
         {
             "title": "MotoX3M",
             "image": "gamesimages/motox3m.png",
-            "link": "games/motox3m.html",
-            "category": "driving"
+            "link": "games/motox3m.html"
         },
+
+        {
+            "title": "Moto X3M Pool Party",
+            "image": "gamesimages/motox3mpp.png",
+            "link": "games/motox3mpp.html"
+        },
+
         {
             "title": "2 Player Battle",
             "image": "gamesimages/2playerbattle.png",
@@ -180,8 +186,7 @@
         {
             "title": "PolyTrack",
             "image": "gamesimages/polytrack.png",
-            "link": "games/polytrack.html",
-            "category": "driving"
+            "link": "games/polytrack.html"
         },
 
         {
@@ -241,15 +246,13 @@
         {
             "title": "Super Star Car",
             "image": "gamesimages/superstarcar.png",
-            "link": "games/superstarcar.html",
-            "category": "driving"
+            "link": "games/superstarcar.html"
         },
 
         {
             "title": "Moto Maniac 2",
             "image": "gamesimages/motomaniac.png",
-            "link": "games/motomaniac2.html",
-            "category": "driving"
+            "link": "games/motomaniac2.html"
         },
 
         {
@@ -279,22 +282,19 @@
         {
             "title": "Moving Truck Bounty",
             "image": "gamesimages/movingtruckbounty.png",
-            "link": "games/movingtruckbounty.html",
-            "category": "driving"
+            "link": "games/movingtruckbounty.html"
         },
 
         {
             "title": "Cyber Cars Punk Racing",
             "image": "gamesimages/cybercarspunkracing.png",
-            "link": "games/cybercarspunkracing.html",
-            "category": "driving"
+            "link": "games/cybercarspunkracing.html"
         },
 
         {
             "title": "Survival Karts",
             "image": "gamesimages/survivalkarts.png",
-            "link": "games/survivalkarts.html",
-            "category": "driving"
+            "link": "games/survivalkarts.html"
         },
 
         {
@@ -361,6 +361,18 @@
             "title": "Blumgi Rocket",
             "image": "gamesimages/blumgirocket.png",
             "link": "games/blumgirocket.html"
+        },
+
+        {
+            "title": "Bob the Robber",
+            "image": "gamesimages/bobtherobber.png",
+            "link": "games/bobtherobber.html"
+        },
+
+        {
+            "title": "Paper.IO",
+            "image": "gamesimages/paperio.png",
+            "link": "games/paperio.html"
         }
     ]
 }
