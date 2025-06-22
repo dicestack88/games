@@ -181,7 +181,7 @@
             "title": "1V1.LOL",
             "image": "gamesimages/1v1.lol.png",
             "link": "games/1v1.lol.html",
-            "category": "skill"
+            "category": "shooting"
         },
         {
             "title": "xx142b2.exe",
@@ -498,6 +498,14 @@
             "title": "Rooftop Snipers 2",
             "image": "gamesimages/rooftopsnipers2.png",
             "link": "games/rooftopsnipers2.html",
+            "category": "shooting"
+        },
+
+
+        {
+            "title": "Zombie Seige Outbreak",
+            "image": "gamesimages/zombieseigeoutbreak.png",
+            "link": "games/zombieseigeoutbreak.html",
             "category": "shooting"
         }
     ]
