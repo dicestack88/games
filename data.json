@@ -507,6 +507,20 @@
             "image": "gamesimages/zombieseigeoutbreak.png",
             "link": "games/zombieseigeoutbreak.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "The Impossible Quiz",
+            "image": "gamesimages/theimpossiblequiz.png",
+            "link": "games/theimpossiblequiz.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Bloons TD",
+            "image": "gamesimages/bloonstd.png",
+            "link": "games/bloonstd.html",
+            "category": "skill"
         }
     ]
 }
