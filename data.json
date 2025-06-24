@@ -556,6 +556,13 @@
             "image": "gamesimages/stealingthediamond.png",
             "link": "games/stealingthediamond.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Bloxorz",
+            "image": "gamesimages/bloxorz.png",
+            "link": "games/bloxorz.html",
+            "category": "calm"
         }
     ]
 }
