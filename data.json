@@ -591,6 +591,27 @@
             "image": "gamesimages/crazydriving.png",
             "link": "games/crazyparking.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Tap Tap Shots",
+            "image": "gamesimages/taptapshots.png",
+            "link": "games/taptapshots.html",
+            "category": "skill"
+        },
+
+        {
+            "title": "Happy Glass",
+            "image": "gamesimages/happyglass.png",
+            "link": "games/happyglass.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Portal Flash",
+            "image": "gamesimages/portalflash.png",
+            "link": "games/portal.html",
+            "category": "skill"
         }
     ]
 }
