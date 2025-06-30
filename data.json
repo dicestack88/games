@@ -359,28 +359,41 @@
             "title": "Papa's Freezeria",
             "image": "gamesimages/papasfreeezeria.png",
             "link": "games/papasfreezeria.html",
-            "category": "skill"
+            "category": "skill",
+            "group": "Papa"
         },
 
         {
             "title": "Papa's Pizzeria",
             "image": "gamesimages/papaspizzeria.png",
             "link": "games/papaspizzeria.html",
-            "category": "skill"
+            "category": "skill",
+            "group": "Papa"
+
         },
 
         {
             "title": "Papa's Burgeria",
             "image": "gamesimages/papasburgeria.png",
             "link": "games/papasburgeria.html",
-            "category": "skill"
+            "category": "skill",
+            "group": "Papa"
         },
 
         {
             "title": "Papa's Cupcakeria",
             "image": "gamesimages/papascupcakeria.png",
             "link": "games/papascupcakeria.html",
-            "category": "skill"
+            "category": "skill",
+            "group": "Papa"
+        },
+
+        {
+            "title": "Papa's Pancakeria",
+            "image": "gamesimages/papaspancakeria.png",
+            "link": "games/papaspancakeria.html",
+            "category": "skill",
+            "group": "Papa"
         },
 
         {
@@ -594,6 +607,13 @@
         },
 
         {
+            "title": "Sandboxels",
+            "image": "gamesimages/sandboxels.png",
+            "link": "games/sandboxels.html",
+            "category": "calm"
+        },
+
+        {
             "title": "Tap Tap Shots",
             "image": "gamesimages/taptapshots.png",
             "link": "games/taptapshots.html",
@@ -618,6 +638,20 @@
             "title": "Sugar Sugar",
             "image": "gamesimages/sugarsugar.png",
             "link": "games/sugarsugar.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Eggy Car",
+            "image": "gamesimages/eggycar.png",
+            "link": "games/eggycar.html",
+            "category": "driving"
+        },
+
+        {
+            "title": "Curve Ball 3D",
+            "image": "gamesimages/curveball3d.png",
+            "link": "games/curveball3d.html",
             "category": "calm"
         }
     ]
