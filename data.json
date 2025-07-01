@@ -656,6 +656,13 @@
         },
 
         {
+            "title": "Blocky Snakes",
+            "image": "gamesimages/blockysnakes.png",
+            "link": "games/blockysnakes.html",
+            "category": "calm"
+        },
+
+        {
             "title": "Getting Over It",
             "image": "gamesimages/gettingoverit.png",
             "link": "games/gettingoverit.html",
