@@ -667,6 +667,14 @@
             "image": "gamesimages/gettingoverit.png",
             "link": "games/gettingoverit.html",
             "category": "skill"
+        },
+
+        
+        {
+            "title": "Draw Climber",
+            "image": "gamesimages/drawclimber.png",
+            "link": "games/drawclimber.html",
+            "category": "calm"
         }
     ]
 }
