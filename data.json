@@ -675,6 +675,13 @@
             "image": "gamesimages/drawclimber.png",
             "link": "games/drawclimber.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Crossy Road",
+            "image": "gamesimages/crossyroad.png",
+            "link": "games/crossyroad.html",
+            "category": "skill"
         }
     ]
 }
