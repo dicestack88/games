@@ -689,6 +689,13 @@
             "image": "gamesimages/trafficrun.png",
             "link": "games/trafficrun.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Highway Racer",
+            "image": "gamesimages/highwayracer.png",
+            "link": "games/highwayracer.html",
+            "category": "driving"
         }
     ]
 }
