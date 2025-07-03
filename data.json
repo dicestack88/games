@@ -696,6 +696,13 @@
             "image": "gamesimages/highwayracer.png",
             "link": "games/highwayracer.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Doodle Jump",
+            "image": "gamesimages/doodlejump.png",
+            "link": "games/doodlejump.html",
+            "category": "skill"
         }
     ]
 }
