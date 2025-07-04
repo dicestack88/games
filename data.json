@@ -717,6 +717,20 @@
             "image": "gamesimages/gunspin.png",
             "link": "games/gunspin.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Fnaf 1",
+            "image": "gamesimages/fnaf1.png",
+            "link": "games/fnaf1.html",
+            "category": "skill"
+        },
+
+        {
+            "title": "Fnaf 2",
+            "image": "gamesimages/fnaf2.png",
+            "link": "games/fnaf2.html",
+            "category": "skill"
         }
     ]
 }
