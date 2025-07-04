@@ -76,6 +76,13 @@
         },
 
         {
+            "title": "Moto X3M Spooky Land",
+            "image": "gamesimages/motox3msl.png",
+            "link": "games/motox3msl.html",
+            "category": "driving"
+        },
+
+        {
             "title": "2 Player Battle",
             "image": "gamesimages/2playerbattle.png",
             "link": "games/2playerbattle.html",
