@@ -731,6 +731,20 @@
             "image": "gamesimages/fnaf2.png",
             "link": "games/fnaf2.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Thisissand",
+            "image": "gamesimages/thisissand.png",
+            "link": "games/thisissand.html",
+            "category": "calm"
+        },
+
+        {
+            "title": "Elastic Face",
+            "image": "gamesimages/elasticface.png",
+            "link": "games/elasticface.html",
+            "category": "calm"
         }
     ]
 }
