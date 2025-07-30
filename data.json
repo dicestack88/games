@@ -759,6 +759,13 @@
             "image": "gamesimages/elasticface.png",
             "link": "games/elasticface.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Penalty Shooters",
+            "image": "gamesimages/penaltyshooters.png",
+            "link": "games/penaltyshooters.html",
+            "category": "skill"
         }
     ]
 }
