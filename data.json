@@ -766,6 +766,13 @@
             "image": "gamesimages/penaltyshooters.png",
             "link": "games/penaltyshooters.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Race Online: City",
+            "image": "gamesimages/racecityonline.png",
+            "link": "games/raceonline.html",
+            "category": "driving"
         }
     ]
 }
