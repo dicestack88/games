@@ -787,6 +787,13 @@
             "image": "gamesimages/granny.png",
             "link": "games/granny.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Among Us Multiplayer",
+            "image": "gamesimages/amongus.png",
+            "link": "games/amongus.html",
+            "category": "skill"
         }
     ]
 }
