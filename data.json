@@ -794,6 +794,13 @@
             "image": "gamesimages/amongus.png",
             "link": "games/amongus.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Rocket Soccer",
+            "image": "gamesimages/rocketsoccer.png",
+            "link": "games/rocketsoccer.html",
+            "category": "skill"
         }
     ]
 }
