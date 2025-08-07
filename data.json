@@ -808,6 +808,13 @@
             "image": "gamesimages/flappybird.png",
             "link": "games/flappybird.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Puppet Master",
+            "image": "gamesimages/puppetmaster.png",
+            "link": "games/puppetmaster.html",
+            "category": "skill"
         }
     ]
 }
