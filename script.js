@@ -42,3 +42,15 @@ document.addEventListener('DOMContentLoaded', () => {
     renderGames(filteredGames);
   });
 });
+
+fetch('https://api.github.com/repos/iammister1/unblocked-games-21/commits')
+  .then(response => response.json())
+  .then(data => {
+      const latestCommit = data[0].commit.message;
+      document.getElementById('updates').textContent = `Latest update: ${latestCommit}`;
+    })
+    .catch(error => {
+      document.getElementById('latest-commit').textContent = 'Failed to load commit message.';
+      console.error(error);
+    });
+
