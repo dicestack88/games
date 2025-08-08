@@ -1,3 +1,5 @@
+gamesnumber = 0
+
 let allGames = [];
 
 fetch('data.json')
@@ -13,6 +15,12 @@ function renderGames(games) {
   gameContainer.innerHTML = '';
 
   games.forEach(game => {
+    gamesnumber += 1
+
+    const gamesnumberlabel = document.getElementById("gamesnumber")
+
+    gamesnumberlabel.innerHTML = "Games: " + gamesnumber
+
     const gameElement = document.createElement('div');
     gameElement.classList.add('game');
     gameElement.innerHTML = `
