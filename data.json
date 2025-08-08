@@ -90,6 +90,13 @@
         },
 
         {
+            "title": "MotoX3M 2",
+            "image": "gamesimages/motox3m2.png",
+            "link": "games/motox3m2.html",
+            "category": "driving"
+        },
+
+        {
             "title": "2 Player Battle",
             "image": "gamesimages/2playerbattle.png",
             "link": "games/2playerbattle.html",
