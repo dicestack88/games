@@ -7,17 +7,25 @@ fetch('data.json')
   .then(data => {
     allGames = data.games;
     renderGames(allGames);
+    countGames(allGames);
   })
   .catch(error => console.error('Error loading games:', error));
 
+function countGames(games) {
+  games.forEach(game => {
+    gamesnumber += 1
+    const gamecounter = document.getElementById("gamesnumber")
+
+    gamecounter.innerHTML = "Games: " + gamesnumber
+  });
+}
+
 function renderGames(games) {
   const gameContainer = document.getElementById('gameContainer');
-  const gameCounter = document.getElementById('gamesnumber');
-
   gameContainer.innerHTML = '';
-  gameCounter.textContent = `Games: ${games.length}`;
 
   games.forEach(game => {
+
     const gameElement = document.createElement('div');
     gameElement.classList.add('game');
     gameElement.innerHTML = `
@@ -27,7 +35,6 @@ function renderGames(games) {
     gameContainer.appendChild(gameElement);
   });
 }
-
 
 document.addEventListener('DOMContentLoaded', () => {
   const searchInput = document.getElementById('searchInput');
