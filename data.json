@@ -843,6 +843,13 @@
             "image": "gamesimages/stickmandestruction.png",
             "link": "games/stickmandestruction.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Love Tester",
+            "image": "gamesimages/lovetester.png",
+            "link": "games/lovetester.html",
+            "category": "calm"
         }
     ]
 }
