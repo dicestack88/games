@@ -850,6 +850,13 @@
             "image": "gamesimages/lovetester.png",
             "link": "games/lovetester.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Basket Random",
+            "image": "gamesimages/basketrandom.png",
+            "link": "games/basketrandom.html",
+            "category": "skill"
         }
     ]
 }
