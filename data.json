@@ -879,6 +879,20 @@
             "image": "gamesimages/snakesandladders.png",
             "link": "games/snakesandladders.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Happy Wheels",
+            "image": "gamesimages/happywheels.png",
+            "link": "games/happywheels.html",
+            "category": "skill"
+        },
+
+        {
+            "title": "Monster Survivors",
+            "image": "gamesimages/monstersurvivors.png",
+            "link": "games/monstersurvivor.html",
+            "category": "skill"
         }
     ]
 }
