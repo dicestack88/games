@@ -893,6 +893,13 @@
             "image": "gamesimages/monstersurvivors.png",
             "link": "games/monstersurvivor.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Dreadhead Parkour",
+            "image": "gamesimages/dreadheadparkour.png",
+            "link": "games/dreadheadparkour.html",
+            "category": "skill"
         }
     ]
 }
