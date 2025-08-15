@@ -900,6 +900,13 @@
             "image": "gamesimages/dreadheadparkour.png",
             "link": "games/dreadheadparkour.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Blackjack",
+            "image": "gamesimages/blackjack.png",
+            "link": "games/blackjack.html",
+            "category": "skill"
         }
     ]
 }
