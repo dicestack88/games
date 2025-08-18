@@ -124,6 +124,14 @@
             "image": "gamesimages/ducklife2.png",
             "link": "games/ducklife2.html"
         },
+
+        {
+            "title": "Duck Life 3",
+            "image": "gamesimages/ducklife3.png",
+            "link": "games/ducklife3.html"
+        },
+
+
         {
             "title": "World's Hardest Game",
             "image": "gamesimages/worldshardestgame.png",
@@ -175,11 +183,6 @@
             "image": "gamesimages/clusterrush.png",
             "link": "games/clusterrush.html",
             "category": "skill"
-        },
-        {
-            "title": "Duck Life 3",
-            "image": "gamesimages/ducklife3.png",
-            "link": "games/ducklife3.html"
         },
         {
             "title": "Getaway Shootout",
