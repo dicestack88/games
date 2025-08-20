@@ -243,7 +243,7 @@
         {
             "title": "Cookie Clicker",
             "image": "gamesimages/cookieclicker.png",
-            "link": "games/cookieclicker.html",
+            "link": "games/cookieclicker/index.html",
             "category": "calm"
         },
 
@@ -910,6 +910,13 @@
             "image": "gamesimages/blackjack.png",
             "link": "games/blackjack.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Police Chase Drifter",
+            "image": "gamesimages/policechasedrifter.png",
+            "link": "games/policechasedrifter.html",
+            "category": "driving"
         }
     ]
 }
