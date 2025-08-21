@@ -917,6 +917,13 @@
             "image": "gamesimages/policechasedrifter.png",
             "link": "games/policechasedrifter.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Super Smash Flash",
+            "image": "gamesimages/supersmashflash.png",
+            "link": "games/supersmashflash.html",
+            "category": "skill"
         }
     ]
 }
