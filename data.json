@@ -931,6 +931,13 @@
             "image": "gamesimages/tunnelrush.png",
             "link": "games/tunnelrush.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Toy Defence",
+            "image": "gamesimages/toydefence.png",
+            "link": "games/toydefence.html",
+            "category": "skill"
         }
     ]
 }
