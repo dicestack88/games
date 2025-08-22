@@ -952,6 +952,13 @@
             "image": "gamesimages/supermeatboy.png",
             "link": "games/supermeatboy.html",
             "category": "skill"
+        },
+
+        {
+            "title": "The Binding Of Isaac",
+            "image": "gamesimages/thebindingofisaac.png",
+            "link": "games/thebindingofisaac.html",
+            "category": "skill"
         }
     ]
 }
