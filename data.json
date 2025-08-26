@@ -973,6 +973,13 @@
             "image": "gamesimages/stickmangtacity.png",
             "link": "games/stickmangtacity.html",
             "category": "driving"
+        },
+
+        {
+            "title": "Madalin Stunt Cars",
+            "image": "gamesimages/madalinstuntcars.png",
+            "link": "games/madalinstuntcars.html",
+            "category": "driving"
         }
     ]
 }
