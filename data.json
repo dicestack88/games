@@ -987,6 +987,13 @@
             "image": "gamesimages/useboxmen.png",
             "link": "games/useboxmen.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Stack Ball",
+            "image": "gamesimages/stackball.png",
+            "link": "games/stackball.html",
+            "category": "calm"
         }
     ]
 }
