@@ -1028,6 +1028,13 @@
             "image": "gamesimages/archeryrandom.png",
             "link": "games/archeryrandom.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Drive Mad",
+            "image": "gamesimages/drivemad.png",
+            "link": "games/drivemad.html",
+            "category": "driving"
         }
     ]
 }
