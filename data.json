@@ -1014,6 +1014,13 @@
             "image": "gamesimages/qwop.png",
             "link": "games/qwop.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Escape Car",
+            "image": "gamesimages/escapecar.png",
+            "link": "games/escapecar.html",
+            "category": "driving"
         }
     ]
 }
