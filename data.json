@@ -249,7 +249,7 @@
         {
             "title": "Cookie Clicker",
             "image": "gamesimages/cookieclicker.png",
-            "link": "games/cookieclicker.html",
+            "link": "games/cookieclicker/index.html",
             "category": "calm"
         },
 
@@ -1038,10 +1038,10 @@
         },
 
         {
-            "title": "Particles",
-            "image": "gamesimages/particles.png",
-            "link": "games/particles.html",
-            "category": "calm"
+            "title": "Papa Louie: When Pizzas Attack!",
+            "image": "gamesimages/papalouie1.png",
+            "link": "games/papalouie.html",
+            "category": "skill"
         }
     ]
 }
