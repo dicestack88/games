@@ -1063,6 +1063,20 @@
             "image": "gamesimages/obby99lose.png",
             "link": "games/obby99lose.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Counter Strike Unblocked",
+            "image": "gamesimages/counterstrike.png",
+            "link": "games/counterstrike.html",
+            "category": "shooting"
+        },
+
+        {
+            "title": "A Small World Cup",
+            "image": "gamesimages/asmallworldcup.png",
+            "link": "games/asmallworldcup.html",
+            "category": "skill"
         }
     ]
 }
