@@ -1098,6 +1098,13 @@
             "image": "gamesimages/ageofwar.png",
             "link": "games/ageofwar.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Tetris",
+            "image": "gamesimages/tetris.png",
+            "link": "games/tetris.html",
+            "category": "calm"
         }
     ]
 }
