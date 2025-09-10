@@ -1105,6 +1105,13 @@
             "image": "gamesimages/tetris.png",
             "link": "games/tetris.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Tag",
+            "image": "gamesimages/tag.png",
+            "link": "games/tag.html",
+            "category": "skill"
         }
     ]
 }
