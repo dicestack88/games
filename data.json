@@ -1126,6 +1126,13 @@
             "image": "gamesimages/conquerkingdom.png",
             "link": "games/conquerkingdom.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Raft Wars",
+            "image": "gamesimages/raftwars.png",
+            "link": "games/raftwars.html",
+            "category": "shooting"
         }
     ]
 }
