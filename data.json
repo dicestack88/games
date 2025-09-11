@@ -1119,6 +1119,13 @@
             "image": "gamesimages/madness.png",
             "link": "games/madness.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Conquer Kingdom",
+            "image": "gamesimages/conquerkingdom.png",
+            "link": "games/conquerkingdom.html",
+            "category": "skill"
         }
     ]
 }
