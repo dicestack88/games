@@ -146,6 +146,13 @@
         },
 
         {
+            "title": "World's Hardest Game 3",
+            "image": "gamesimages/worldshardestgame3.png",
+            "link": "games/worldshardestgame3.html",
+            "category": "skill"
+        },
+
+        {
             "title": "World's Hardest Game 2",
             "image": "gamesimages/worldshardestgame2.png",
             "link": "games/worldshardestgame2.html",
