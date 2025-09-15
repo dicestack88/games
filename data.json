@@ -1170,6 +1170,13 @@
             "image": "gamesimages/bubbleshooter.png",
             "link": "games/bubbleshooter.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Crazy Cattle 3D",
+            "image": "gamesimages/crazycattle3d.png",
+            "link": "games/crazycattle3d.html",
+            "category": "skill"
         }
     ]
 }
