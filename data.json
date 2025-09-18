@@ -325,6 +325,39 @@
         },
 
         {
+            "title": "Volley Random",
+            "image": "gamesimages/volleyrandom.png",
+            "link": "games/volleyrandom.html",
+            "category": "skill",
+            "group": "Random"
+        },
+
+                {
+            "title": "Soccer Random",
+            "image": "gamesimages/soccerrandom.png",
+            "link": "games/soccerrandom.html",
+            "category": "skill",
+            "group": "Random"
+        },
+
+                {
+            "title": "Basket Random",
+            "image": "gamesimages/basketrandom.png",
+            "link": "games/basketrandom.html",
+            "category": "skill",
+            "group": "Random"
+        },
+
+                {
+            "title": "Archery Random",
+            "image": "gamesimages/archeryrandom.png",
+            "link": "games/archeryrandom.html",
+            "category": "shooting",
+            "group": "Random"
+        },
+
+
+        {
             "title": "Super Mario Bros",
             "image": "gamesimages/supermariobros.png",
             "link": "games/supermariobros.html",
@@ -350,13 +383,6 @@
             "image": "gamesimages/motomaniac.png",
             "link": "games/motomaniac2.html",
             "category": "driving"
-        },
-
-        {
-            "title": "Soccer Random",
-            "image": "gamesimages/soccerrandom.png",
-            "link": "games/soccerrandom.html",
-            "category": "skill"
         },
 
         {
@@ -914,13 +940,6 @@
         },
 
         {
-            "title": "Basket Random",
-            "image": "gamesimages/basketrandom.png",
-            "link": "games/basketrandom.html",
-            "category": "skill"
-        },
-
-        {
             "title": "G-Switch",
             "image": "gamesimages/gswitch.png",
             "link": "games/gswitch.html",
@@ -1058,13 +1077,6 @@
             "image": "gamesimages/escapecar.png",
             "link": "games/escapecar.html",
             "category": "driving"
-        },
-
-        {
-            "title": "Archery Random",
-            "image": "gamesimages/archeryrandom.png",
-            "link": "games/archeryrandom.html",
-            "category": "shooting"
         },
 
         {
