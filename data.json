@@ -47,7 +47,7 @@
             "category": "skill"
         },
 
-        
+
         {
             "title": "Subway Surfers",
             "image": "gamesimages/subwaysurfers.png",
@@ -1220,6 +1220,13 @@
             "image": "gamesimages/linerider.png",
             "link": "games/linerider.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Stick Rpg",
+            "image": "gamesimages/stickrpg.png",
+            "link": "games/stickrpg.html",
+            "category": "skill"
         }
     ]
 }
