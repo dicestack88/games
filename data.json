@@ -39,6 +39,15 @@
             "link": "games/ovo.html",
             "category": "skill"
         },
+
+        {
+            "title": "Ovo 2",
+            "image": "gamesimages/ovo2.png",
+            "link": "games/ovo2.html",
+            "category": "skill"
+        },
+
+        
         {
             "title": "Subway Surfers",
             "image": "gamesimages/subwaysurfers.png",
