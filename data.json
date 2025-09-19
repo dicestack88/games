@@ -1227,6 +1227,13 @@
             "image": "gamesimages/stickrpg.png",
             "link": "games/stickrpg.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Funny Shooter 2",
+            "image": "gamesimages/funnyshooter.png",
+            "link": "games/funnyshooter2.html",
+            "category": "shooting"
         }
     ]
 }
