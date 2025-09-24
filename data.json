@@ -1241,6 +1241,13 @@
             "image": "gamesimages/gunmayhem.png",
             "link": "games/gunmayhem.html",
             "category": "shooting"
+        },
+
+        {
+            "title": "Flash Chess",
+            "image": "gamesimages/flashchess.png",
+            "link": "games/flashchess.html",
+            "category": "skill"
         }
     ]
 }
