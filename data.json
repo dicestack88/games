@@ -1276,6 +1276,13 @@
             "image": "gamesimages/tigersimulator3d.png",
             "link": "games/tigersimulator3d.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Flip Runner",
+            "image": "gamesimages/fliprunner.png",
+            "link": "games/fliprunner.html",
+            "category": "skill"
         }
     ]
 }
