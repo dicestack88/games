@@ -1269,6 +1269,13 @@
             "image": "gamesimages/leveldevil.png",
             "link": "games/leveldevil.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Tiger Simulator 3D",
+            "image": "gamesimages/tigersimulator3d.png",
+            "link": "games/tigersimulator3d.html",
+            "category": "skill"
         }
     ]
 }
