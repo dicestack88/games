@@ -1262,7 +1262,13 @@
             "image": "gamesimages/vex5.png",
             "link": "games/vex5.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Level Devil",
+            "image": "gamesimages/leveldevil.png",
+            "link": "games/leveldevil.html",
+            "category": "skill"
         }
-        
     ]
 }
