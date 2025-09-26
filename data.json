@@ -887,6 +887,13 @@
         },
 
         {
+            "title": "Granny 2",
+            "image": "gamesimages/granny2.png",
+            "link": "games/granny2.html",
+            "category": "skill"
+        },
+
+        {
             "title": "Among Us Multiplayer",
             "image": "gamesimages/amongus.png",
             "link": "games/amongus.html",
