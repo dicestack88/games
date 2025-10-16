@@ -1325,6 +1325,13 @@
             "image": "gamesimages/solitare.png",
             "link": "games/solitare.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Snow War Io",
+            "image": "gamesimages/snowwario.png",
+            "link": "games/snowwario.html",
+            "category": "skill"
         }
     ]
 }
