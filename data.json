@@ -1318,6 +1318,13 @@
             "image": "gamesimages/intospace2.png",
             "link": "games/intospace2.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Solitare",
+            "image": "gamesimages/solitare.png",
+            "link": "games/solitare.html",
+            "category": "skill"
         }
     ]
 }
