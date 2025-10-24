@@ -1339,6 +1339,13 @@
             "image": "gamesimages/slitherio.png",
             "link": "games/slitherio.html",
             "category": "calm"
+        },
+
+        {
+            "title": "Ragdoll Archers",
+            "image": "gamesimages/ragdollarchers.png",
+            "link": "games/ragdollarchers.html",
+            "category": "skill"
         }
     ]
 }
