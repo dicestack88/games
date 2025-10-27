@@ -1360,6 +1360,13 @@
             "image": "gamesimages/sansfight.png",
             "link": "games/sansfight.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Ragdoll Hit",
+            "image": "gamesimages/ragdollhit.png",
+            "link": "games/ragdollhit.html",
+            "category": "skill"
         }
     ]
 }
