@@ -500,6 +500,14 @@
         },
 
         {
+            "title": "Papa's Donuteria",
+            "image": "gamesimages/papasdonuteria.png",
+            "link": "games/papasdonuteria.html",
+            "category": "skill",
+            "group": "Papa"
+        },
+
+        {
             "title": "There is no Game",
             "image": "gamesimages/thereisnogame.png",
             "link": "games/thereisnogame.html"
