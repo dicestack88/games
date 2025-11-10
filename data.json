@@ -1308,6 +1308,13 @@
         },
 
         {
+            "title": "Retro Bowl College",
+            "image": "gamesimages/retrobowlcollege.png",
+            "link": "games/retrobowlcollege.html",
+            "category": "skill"
+        },
+
+        {
             "title": "Stack",
             "image": "gamesimages/stack.png",
             "link": "games/stack.html",
