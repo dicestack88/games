@@ -1382,6 +1382,13 @@
             "image": "gamesimages/ragdollhit.png",
             "link": "games/ragdollhit.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Superhot",
+            "image": "gamesimages/superhot.png",
+            "link": "games/superhot.html",
+            "category": "shooting"
         }
     ]
 }
